@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640582549 source:c:\users\ivan\desktop\tubes\main.cpp
+	"header.h"
+	<iostream>
+
+1640582951 source:c:\users\ivan\desktop\tubes\source.cpp
+	"header.h"
+
+1640580864 c:\users\ivan\desktop\tubes\header.h
+	<iostream>
+
